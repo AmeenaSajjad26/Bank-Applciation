@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmeenaC_sharp2", "AmeenaC_sharp2\AmeenaC_sharp2.csproj", "{598413F3-63DF-457C-96D1-20E49BFEB41F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598413F3-63DF-457C-96D1-20E49BFEB41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598413F3-63DF-457C-96D1-20E49BFEB41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598413F3-63DF-457C-96D1-20E49BFEB41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598413F3-63DF-457C-96D1-20E49BFEB41F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6AE9B13-52AB-4058-8279-DEC41429B0CA}
+	EndGlobalSection
+EndGlobal

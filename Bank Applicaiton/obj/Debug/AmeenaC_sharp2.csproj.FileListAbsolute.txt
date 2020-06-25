@@ -1,0 +1,9 @@
+C:\Users\ameen\Desktop\AmeenaC_sharp2\AmeenaC_sharp2\obj\Debug\AmeenaC_sharp2.csprojResolveAssemblyReference.cache
+C:\Users\ameen\Desktop\AmeenaC_sharp2\AmeenaC_sharp2\obj\Debug\AmeenaC_sharp2.Properties.Resources.resources
+C:\Users\ameen\Desktop\AmeenaC_sharp2\AmeenaC_sharp2\obj\Debug\AmeenaC_sharp2.csproj.GenerateResource.Cache
+C:\Users\ameen\Desktop\AmeenaC_sharp2\AmeenaC_sharp2\obj\Debug\AmeenaC_sharp2.csproj.CoreCompileInputs.cache
+C:\Users\ameen\Desktop\AmeenaC_sharp2\AmeenaC_sharp2\bin\Debug\AmeenaC_sharp2.exe.config
+C:\Users\ameen\Desktop\AmeenaC_sharp2\AmeenaC_sharp2\bin\Debug\AmeenaC_sharp2.exe
+C:\Users\ameen\Desktop\AmeenaC_sharp2\AmeenaC_sharp2\bin\Debug\AmeenaC_sharp2.pdb
+C:\Users\ameen\Desktop\AmeenaC_sharp2\AmeenaC_sharp2\obj\Debug\AmeenaC_sharp2.exe
+C:\Users\ameen\Desktop\AmeenaC_sharp2\AmeenaC_sharp2\obj\Debug\AmeenaC_sharp2.pdb
